@@ -20,7 +20,7 @@ Tech Stack: C#, ADO.NET, React.js, SQL, REST APIs, Postman
 
 Client Websites
 
-Techn Stack: HTML, CSS, JavaScript, Web Hosting
+Tech Stack: HTML, CSS, JavaScript, Web Hosting
 
 - Developed and hosted a campaign website for an MP aspirant.
 - Contributed to a salary advance system landing page in collaboration with another developer.
